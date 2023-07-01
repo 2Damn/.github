@@ -14,7 +14,7 @@
   <a href="#license">License</a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/made%20by-Prayangshu%20%26%20Biplob-blueviolet" alt="Made by Prayangshu & Biplob">
+  <img src="https://img.shields.io/badge/made%20by-Prayangshu%20%26%20Biplob-blueviolet" alt="Founded by Prayangshu Biswas Hritwick">
   <img src="https://img.shields.io/github/license/2damn/2damn-github-team" alt="License">
 </p>
 
